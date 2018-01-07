@@ -1,7 +1,7 @@
 # HackerRank Ruby soutions
 
-This repository consists list of solution files for HackerRank website Ruby practice questions.
-These Ruby Practice Questions can be found in [HackerRank.](https://www.hackerrank.com/domains/python)
+This repository consists list of solution files for HackerRank website Python practice questions.
+These Python practice Questions can be found in [HackerRank.](https://www.hackerrank.com/domains/python)
 This repository is prepared for the reference purpose of the UnSolved questions, THIS CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. Please refer to [LICENCE](https://github.com/atchyutn/hackerrank-ruby-solutions/blob/master/LICENSE.md)
 
 
